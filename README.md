@@ -4,10 +4,10 @@ Repositorio destino al proyecto de la asignatura de Infraestructura Virtual curs
 ## Problema
 En la actualidad un problema muy frecuente, es la complicación que tienen los padres de cuidar de sus hijos debido al gran número de horas de trabajo que se le exigen. Para ello suelen contratar una guardería, el problema es que por las tardes no hay guarderias por lo tanto hacen uso o de familiares o de niñer@s para que cuiden de sus hijos.
 
-Este problema conduce al problema de la busqueda de una niñera, la cual encage con nuestros valores y preferencias.
+Este problema conduce al problema de la busqueda de una niñera, la cual se adecue con nuestros valores y preferencias.
 
 ## Lógica de negocio
-Nuestra aplicación consistira en almacenar datos de niñer@s disponibles y que se registren, a la vez que se les pide a los clientes unas preferencias o características deseadas en el cuidador y mediante una algoritmo que nos calcule y procese el cuidador más adecuado para cada cliente y que este disponible teniendo en cuenta los comentarios de previos clientes sobre el cuidador y más aspectos a tener en cuenta
+Nuestra aplicación consistira en almacenar datos de niñer@s disponibles y que se registren, a la vez que se les pide a los clientes unas preferencias o características deseadas en el cuidador y mediante una algoritmo que nos calcule y procese el cuidador más adecuado para cada cliente y que este disponible teniendo en cuenta los comentarios de previos clientes sobre el cuidador y más aspectos a tener en cuenta.
 
 
 ## Configuración
