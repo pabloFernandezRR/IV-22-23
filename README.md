@@ -1,9 +1,13 @@
-# IV-22-23
+# IV-22-23 Pablo Fernández de los Rios Rodríguez
 Repositorio destino al proyecto de la asignatura de Infraestructura Virtual curso 22-23
 
-Un problema muy presente en la actualidad es el de los ocupas, es un tema de controversia. Pero, obviamente a nadie le es de agrado llegar a su casa un dia y encontrarte que hay personas ajenas viviendo en tu casa. Para ello he pensado una idea de negocio que evite estos problemas pudiendo contratar nuestros servicios para que haya una persona atenta a tu casa.
+# Problema
+En la actualidad un problema muy frecuente, es la complicación que tienen los padres de cuidar de sus hijos debido al gran número de horas de trabajo que se le exigen. Para ello suelen contratar una guardería, el problema es que por las tardes no hay guarderias por lo tanto hacen uso o de familiares o de niñer@s para que cuiden de sus hijos.
 
-El proyecto consistira en ofrecer un servicio a las personas que se vayan de viaje y deseen tener sus casas protegidas durante ese periodo. Para ello la aplicación web a desarrollar nos permitira procesar las fechas deseadas lo que lo utilizaremos para calcular un precio acorde a la duración del servicio, el tipo de cuidador de la casa que se desee, resumir el "pedido" realizado por el cliente y todo lo relacionado con ello.
+Este problema conduce al problema de la busqueda de una niñera, la cual encage con nuestros valores y preferencias.
+
+# Lógica de negocio
+Nuestra aplicación consistira en almacenar datos de niñer@s disponibles y que se registren, a la vez que se les pide a los clientes unas preferencias o características deseadas en el cuidador y mediante una algoritmo que nos calcule y procese el cuidador más adecuado para cada cliente y que este disponible teniendo en cuenta los comentarios de previos clientes sobre el cuidador y más aspectos a tener en cuenta
 
 
 ## Configuración
