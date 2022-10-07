@@ -2,12 +2,10 @@
 Repositorio destino al proyecto de la asignatura de Infraestructura Virtual curso 22-23
 
 ## Problema
-En la actualidad un problema muy frecuente, es la complicación que tienen los padres de cuidar de sus hijos debido al gran número de horas de trabajo que se le exigen. Para ello suelen contratar una guardería, el problema es que por las tardes no hay guarderias por lo tanto hacen uso o de familiares o de niñer@s para que cuiden de sus hijos.
-
-Este problema conduce al problema de la busqueda de una niñera, la cual se adecue con nuestros valores y preferencias.
+Dentro de las administraciones de fincas, un problema frecuente es lo relacionado con la realización de las actas de comunidad. Esto se debe a que por muchas actas que hayas realizado, alguna vez puedes no saber como escribir un problema y la solución para resolverlo. Por lo que sería interesante poder encontrar de todas sus actas, alguna que se parezca para poder usarlo como una ayuda.
 
 ## Lógica de negocio
-Nuestra aplicación consistira en almacenar datos de niñer@s disponibles y que se registren, a la vez que se les pide a los clientes unas preferencias o características deseadas en el cuidador y mediante una algoritmo que nos calcule y procese el cuidador más adecuado para cada cliente y que este disponible teniendo en cuenta los comentarios de previos clientes sobre el cuidador y más aspectos a tener en cuenta.
+La idea seria el procesamiento del texto de las actas, con el fin de compararlas mediantes un algoritmo de comparación entre las actas buscando la más cercana (parecida).
 
 
 ## Configuración
